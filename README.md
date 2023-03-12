@@ -14,7 +14,7 @@
 
 <h3 align="center">📈Profile Views</h3>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/UltramarineW/count.svg" />
+  <img src="https://profile-counter.glitch.me/MrRuanCoder/count.svg" />
 </p>
 
 
