@@ -17,6 +17,10 @@
   <img src="https://profile-counter.glitch.me/MrRuanCoder/count.svg" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/MrRuanCoder/MrRuanCoder/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRuanCoder)](https://github.com/anuraghazra/github-readme-stats) -->
