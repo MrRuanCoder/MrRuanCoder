@@ -17,9 +17,9 @@
   <img src="https://profile-counter.glitch.me/MrRuanCoder/count.svg" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/MrRuanCoder/MrRuanCoder/raw/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
 
 
 
