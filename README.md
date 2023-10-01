@@ -56,4 +56,6 @@ Here are some ideas to get you started: -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRuanCoder&layout=compact&exclude_repo=MrRuanCoder.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=MrRuanCoder&layout=compact&theme=vue-dark&range=last_7_days&link=https://www.github.com/MrRuanCoder/" />
+<!-- <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=MrRuanCoder&layout=compact&theme=vue-dark&range=last_7_days&link=https://www.github.com/MrRuanCoder/" /> -->
+
+<img align='center'src="https://github-readme-stats.vercel.app/api/wakatime?username=MrRuanCoder"/> 
