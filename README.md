@@ -58,4 +58,4 @@ Here are some ideas to get you started: -->
 
 <!-- <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=MrRuanCoder&layout=compact&theme=vue-dark&range=last_7_days&link=https://www.github.com/MrRuanCoder/" /> -->
 
-<img align='center'src="https://github-readme-stats.vercel.app/api/wakatime?username=MrRuanCoder"/> 
+<img align='center'src="https://github-readme-stats.vercel.app/api/wakatime?username=MrRuanCoder&range=last_7_day"/> 
